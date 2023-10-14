@@ -392,7 +392,7 @@ textarea {
   left: 0;
   top: 0;
   z-index: 11;
-  background: #75dab4;
+  background: #FF9214;
   text-align: center;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -502,7 +502,7 @@ textarea {
   -webkit-transition-duration: 500ms;
   transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
   -webkit-transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
-  background: #75dab4;
+  background: #FF9214;
 }
 .page-transition .layer {
   width: 0;
@@ -550,7 +550,7 @@ textarea {
   -webkit-transition-duration: 500ms;
   transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
   -webkit-transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
-  background: #75dab4;
+  background: #FF9214;
   padding-left: 120px;
 }
 .site-navigation .layer {
@@ -635,7 +635,7 @@ textarea {
   transition: 0.25s ease-in-out;
 }
 .site-navigation .inner ul li a:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 .site-navigation.active {
@@ -672,7 +672,7 @@ textarea {
   right: -100%;
   top: 0;
   z-index: 3;
-  background: #75dab4;
+  background: #FF9214;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease;
@@ -735,7 +735,7 @@ textarea {
   color: #fff;
 }
 .social-media .inner ul li a:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 .social-media.active {
@@ -763,7 +763,7 @@ textarea {
   right: -100%;
   top: 0;
   z-index: 3;
-  background: #75dab4;
+  background: #FF9214;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease;
@@ -872,7 +872,7 @@ textarea {
   cursor: pointer;
 }
 .all-cases-link b:hover {
-  background: #75dab4;
+  background: #FF9214;
   text-decoration: none;
   color: #fff;
 }
@@ -993,7 +993,7 @@ textarea {
   transform: translateX(-50%);
   float: left;
   font-size: 3vw;
-  line-height: 5vw;
+  /* line-height: 5vw; */
   font-weight: 800;
 }
 .slider .gallery-thumbs .swiper-slide a {
@@ -1141,7 +1141,7 @@ textarea {
 }
 .video-hero .inner a:hover {
   text-decoration: none;
-  color: #75dab4;
+  color: #FF9214;
 }
 
 /* CAROUSEL HERO */
@@ -1220,7 +1220,7 @@ textarea {
 }
 .carousel-hero .carousel-slider .swiper-slide .inner a:hover {
   text-decoration: none;
-  color: #75dab4;
+  color: #FF9214;
 }
 .carousel-hero .swiper-button-prev {
   height: auto;
@@ -1381,7 +1381,7 @@ textarea {
 .intro a {
   color: #fff;
   font-size: 17px;
-  border-bottom: 1px solid #75dab4;
+  border-bottom: 1px solid #FF9214;
   padding-bottom: 5px;
 }
 .intro a:hover {
@@ -1621,7 +1621,7 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   padding: 100px 80px;
-  background: #75dab4;
+  background: #FF9214;
   color: #222327;
 }
 .testimonials .testimonial blockquote {
@@ -1747,7 +1747,7 @@ textarea {
   padding: 5px;
 }
 .team figure ul li a:hover {
-  color: #75dab4;
+  color: #FF9214;
 }
 
 /* WORKS */
@@ -1982,7 +1982,7 @@ textarea {
   padding: 3px 6px;
 }
 .blog .sidebar .widget .tags li a:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 .blog .sidebar .widget .mini-works {
@@ -2148,7 +2148,7 @@ textarea {
   color: #161619;
 }
 .blog .post .post-content .post-title a:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 .blog .post .post-content .post-author {
@@ -2193,7 +2193,7 @@ textarea {
   padding: 3px 6px;
 }
 .blog .post .post-content .post-categories li a:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 .blog .post .post-content .post-link {
@@ -2202,7 +2202,7 @@ textarea {
   padding-bottom: 5px;
 }
 .blog .post .post-content .post-link:hover {
-  color: #75dab4;
+  color: #FF9214;
   text-decoration: none;
 }
 
@@ -2375,7 +2375,7 @@ textarea {
   font-size: 13px;
 }
 .footer ul li a:hover {
-  color: #75dab4;
+  color: #FF9214;
 }
 .footer h6 {
   font-family: "Fjalla One", sans-serif;
@@ -2392,7 +2392,7 @@ textarea {
 .footer .link {
   color: #fff;
   font-size: 17px;
-  border-bottom: 1px solid #75dab4;
+  border-bottom: 1px solid #FF9214;
   padding-bottom: 5px;
 }
 .footer .link:hover {
@@ -2420,7 +2420,7 @@ textarea {
 }
 .footer .footer-bar .creation a:hover {
   text-decoration: none;
-  color: #75dab4;
+  color: #FF9214;
 }
 
 /* RESPONSIVE TABLET FIXES */
@@ -2456,8 +2456,8 @@ textarea {
 
   .slider .gallery-thumbs .swiper-slide-active span {
     width: 100%;
-    font-size: 8vw;
-    line-height: 11vw;
+    /* font-size: 8vw; */
+    /* line-height: 11vw; */
   }
 
   .intro .col-lg-7 {
